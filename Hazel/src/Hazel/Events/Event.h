@@ -37,7 +37,7 @@ namespace Hazel {
 
 
 
-	class Event
+	class HAZEL_API Event
 	{
 	public:
 		bool Handled = false;
